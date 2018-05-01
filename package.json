@@ -1,12 +1,12 @@
 {
   "name": "insight-bitcore",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the denarius network and build your own services with it.",
   "version": "0.2.5",
   "author": {
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/bitpay/insight.git",
+  "repository": "git://github.com/carsenk/insight.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -32,13 +32,13 @@
   "bugs": {
     "url": "https://github.com/bitpay/insight/issues"
   },
-  "homepage": "https://github.com/bitpay/insight",
+  "homepage": "https://github.com/carsenk/insight",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "bitcoin",
+    "denarius",
     "bitcore",
     "front-end"
   ],
